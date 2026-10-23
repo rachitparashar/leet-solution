@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 ## Stack
 |  |
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rachitparashar/leet-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
