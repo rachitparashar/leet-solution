@@ -36,19 +36,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rachitparashar/leet-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/rachitparashar/leet-solution/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rachitparashar/leet-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/rachitparashar/leet-solution/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rachitparashar/leet-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/rachitparashar/leet-solution/tree/master/0226-invert-binary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/rachitparashar/leet-solution/tree/master/0675-cut-off-trees-for-golf-event) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rachitparashar/leet-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/rachitparashar/leet-solution/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
