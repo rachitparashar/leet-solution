@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/rachitparashar/leet-solution/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Heap (Priority Queue)
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Sorting
 |  |
