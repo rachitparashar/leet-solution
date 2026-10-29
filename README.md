@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/rachitparashar/leet-solution/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
