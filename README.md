@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/rachitparashar/leet-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
+| [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rachitparashar/leet-solution/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
