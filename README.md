@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/rachitparashar/leet-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
