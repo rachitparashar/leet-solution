@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
 | ------- |
