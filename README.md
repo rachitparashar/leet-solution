@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rachitparashar/leet-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rachitparashar/leet-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/rachitparashar/leet-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rachitparashar/leet-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rachitparashar/leet-solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/rachitparashar/leet-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rachitparashar/leet-solution/tree/master/0234-palindrome-linked-list) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rachitparashar/leet-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -115,9 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/rachitparashar/leet-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/rachitparashar/leet-solution/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
