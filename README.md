@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/rachitparashar/leet-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rachitparashar/leet-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Sorting
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/rachitparashar/leet-solution/tree/master/0142-linked-list-cycle-ii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rachitparashar/leet-solution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
