@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rachitparashar/leet-solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/rachitparashar/leet-solution/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
