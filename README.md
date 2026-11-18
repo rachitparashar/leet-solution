@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/rachitparashar/leet-solution/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
