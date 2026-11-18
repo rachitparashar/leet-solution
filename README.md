@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/rachitparashar/leet-solution/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rachitparashar/leet-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Heap (Priority Queue)
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/rachitparashar/leet-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rachitparashar/leet-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Sorting
 |  |
@@ -144,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rachitparashar/leet-solution/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
