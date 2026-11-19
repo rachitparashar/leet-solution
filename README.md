@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rachitparashar/leet-solution/tree/master/0234-palindrome-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
