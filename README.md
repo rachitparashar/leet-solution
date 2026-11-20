@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rachitparashar/leet-solution/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
+| [0316-remove-duplicate-letters](https://github.com/rachitparashar/leet-solution/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rachitparashar/leet-solution/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/rachitparashar/leet-solution/tree/master/0316-remove-duplicate-letters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Linked List
 |  |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/rachitparashar/leet-solution/tree/master/1148-article-views-i) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/rachitparashar/leet-solution/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/rachitparashar/leet-solution/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
