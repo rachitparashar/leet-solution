@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rachitparashar/leet-solution/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/rachitparashar/leet-solution/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0697-degree-of-an-array](https://github.com/rachitparashar/leet-solution/tree/master/0697-degree-of-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rachitparashar/leet-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/rachitparashar/leet-solution/tree/master/0729-my-calendar-i) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rachitparashar/leet-solution/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/rachitparashar/leet-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/rachitparashar/leet-solution/tree/master/0242-valid-anagram) |
+| [0697-degree-of-an-array](https://github.com/rachitparashar/leet-solution/tree/master/0697-degree-of-an-array) |
 ## Memoization
 |  |
 | ------- |
