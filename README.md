@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/rachitparashar/leet-solution/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/rachitparashar/leet-solution/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/rachitparashar/leet-solution/tree/master/0273-integer-to-english-words) |
+| [0396-rotate-function](https://github.com/rachitparashar/leet-solution/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/rachitparashar/leet-solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/1137-n-th-tribonacci-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rachitparashar/leet-solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rachitparashar/leet-solution/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/rachitparashar/leet-solution/tree/master/0131-palindrome-partitioning) |
+| [0396-rotate-function](https://github.com/rachitparashar/leet-solution/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rachitparashar/leet-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rachitparashar/leet-solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rachitparashar/leet-solution/tree/master/0046-permutations) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rachitparashar/leet-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0396-rotate-function](https://github.com/rachitparashar/leet-solution/tree/master/0396-rotate-function) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/rachitparashar/leet-solution/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0697-degree-of-an-array](https://github.com/rachitparashar/leet-solution/tree/master/0697-degree-of-an-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rachitparashar/leet-solution/tree/master/0719-find-k-th-smallest-pair-distance) |
